@@ -1,0 +1,12 @@
+C:\Users\rusmusus\source\repos\SeleniumSetup\SeleniumSetup\SeleniumSetup\bin\Debug\SeleniumSetup.exe.config
+C:\Users\rusmusus\source\repos\SeleniumSetup\SeleniumSetup\SeleniumSetup\bin\Debug\SeleniumSetup.exe
+C:\Users\rusmusus\source\repos\SeleniumSetup\SeleniumSetup\SeleniumSetup\bin\Debug\SeleniumSetup.pdb
+C:\Users\rusmusus\source\repos\SeleniumSetup\SeleniumSetup\SeleniumSetup\bin\Debug\WebDriver.dll
+C:\Users\rusmusus\source\repos\SeleniumSetup\SeleniumSetup\SeleniumSetup\bin\Debug\WebDriver.Support.dll
+C:\Users\rusmusus\source\repos\SeleniumSetup\SeleniumSetup\SeleniumSetup\bin\Debug\WebDriver.xml
+C:\Users\rusmusus\source\repos\SeleniumSetup\SeleniumSetup\SeleniumSetup\bin\Debug\WebDriver.Support.xml
+C:\Users\rusmusus\source\repos\SeleniumSetup\SeleniumSetup\SeleniumSetup\obj\Debug\SeleniumSetup.csprojResolveAssemblyReference.cache
+C:\Users\rusmusus\source\repos\SeleniumSetup\SeleniumSetup\SeleniumSetup\obj\Debug\SeleniumSetup.csproj.CoreCompileInputs.cache
+C:\Users\rusmusus\source\repos\SeleniumSetup\SeleniumSetup\SeleniumSetup\obj\Debug\SeleniumSetup.csproj.CopyComplete
+C:\Users\rusmusus\source\repos\SeleniumSetup\SeleniumSetup\SeleniumSetup\obj\Debug\SeleniumSetup.exe
+C:\Users\rusmusus\source\repos\SeleniumSetup\SeleniumSetup\SeleniumSetup\obj\Debug\SeleniumSetup.pdb
