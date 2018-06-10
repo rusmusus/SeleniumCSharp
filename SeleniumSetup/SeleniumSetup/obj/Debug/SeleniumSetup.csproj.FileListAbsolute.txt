@@ -17,6 +17,7 @@ C:\Users\Rustam Ahmedov\source\repos\SeleniumCSharp\SeleniumCSharp\SeleniumSetup
 C:\Users\Rustam Ahmedov\source\repos\SeleniumCSharp\SeleniumCSharp\SeleniumSetup\SeleniumSetup\bin\Debug\WebDriver.Support.dll
 C:\Users\Rustam Ahmedov\source\repos\SeleniumCSharp\SeleniumCSharp\SeleniumSetup\SeleniumSetup\bin\Debug\WebDriver.xml
 C:\Users\Rustam Ahmedov\source\repos\SeleniumCSharp\SeleniumCSharp\SeleniumSetup\SeleniumSetup\bin\Debug\WebDriver.Support.xml
+C:\Users\Rustam Ahmedov\source\repos\SeleniumCSharp\SeleniumCSharp\SeleniumSetup\SeleniumSetup\obj\Debug\SeleniumSetup.csprojAssemblyReference.cache
 C:\Users\Rustam Ahmedov\source\repos\SeleniumCSharp\SeleniumCSharp\SeleniumSetup\SeleniumSetup\obj\Debug\SeleniumSetup.csproj.CoreCompileInputs.cache
 C:\Users\Rustam Ahmedov\source\repos\SeleniumCSharp\SeleniumCSharp\SeleniumSetup\SeleniumSetup\obj\Debug\SeleniumSetup.csproj.CopyComplete
 C:\Users\Rustam Ahmedov\source\repos\SeleniumCSharp\SeleniumCSharp\SeleniumSetup\SeleniumSetup\obj\Debug\SeleniumSetup.exe
